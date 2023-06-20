@@ -1,0 +1,6 @@
+__pycache__
+lyk_part/__pycache__
+lyk_part/*~
+lyk_part/build
+lyk_part/dist
+lyk_part/src/*.egg-info
